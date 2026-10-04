@@ -1,5 +1,8 @@
 # Agent-Studybuddy
 log change project😄<br>
-[+] **31/08/2569** add voice system and basic feature<br>
-[-] **04/09/2569** Redirecting the Project Pivot: Cleared the codebase and refocused the project on 'Study Buddy'<br>
-[+] **2/10/2569** Pivoted to Study Buddy because the original idea was too broad and didn't solve a real problem I face. New focus: offline-first study tool
+[+] **31/08/2569** เพิ่มระบบเสียงพื้นฐานสำหรับใช้งาน<br>
+[-] **04/09/2569** ผมได้ทำการ ลบฐานเก่าออกเนื่องจากการต่อยอดที่ยากเกินไปแล้วอาจใช้เวลาเกินกำหนดเลยหันมาโฟกัสแค่การมี'study buddy'<br>
+[+] **2/10/2569** เปลี่ยนทั้งหมดมาเป็ฯstudy buddyแล้ว โดยมุ้งเน้นไปที่ ระบบพื้นฐานอย่าง เพิ่มงาน ลบสิ่งที่เสร็จไปแล้ว แล้วก็ตั้งเวลาอ่านหนังสือและได้ทำการปล่อยเวอร์ชั่น1แล้ว<br>
+[+] **3/10/2569** มีการอัพเดทไปเป็นเวอร์ชั่น 2 ที่ มุ้งเน้นไปที่การ ดักจับ สิ่งผิดพลาดที่อาจเกิดขึ้นเพื่อไม่ให้มันไปขัดสมาธิของผู้ใ้เวลาอ่านหนังสือ สิ่งที่เพิ่มขึ้นมาคือ - Error handling ครบทุกฟังก์ชัน<br>
+    - JSON เก็บ level/exp/streak<br>
+    - ระบบ Gamification ทำงาน
